@@ -1,0 +1,120 @@
+body {
+    background-color: #f0f4f9;
+    ;
+    margin: 0px;
+    padding: 0px;
+}
+
+.signin {
+    box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    width: 901px;
+    height: 315px;
+    background-color: white;
+    border-radius: 16px;
+    display: flex;
+    margin: 10px;
+    margin-top: 200px;
+    margin-left: 253px;
+    position: relative;
+
+}
+
+#icon {
+    height: 51px;
+    width: 49px;
+    padding: 27px;
+
+}
+
+#head {
+    margin-top: 90px;
+    margin-left: -70px;
+    font-weight: 200;
+
+}
+
+#tit {
+    margin-top: 142px;
+    margin-left: -93px;
+}
+
+#username {
+    width: 405px;
+    height: 41px;
+    margin-top: 88px;
+    margin-left: 241px;
+}
+
+#forgot {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+
+.forgotp {
+    position: absolute;
+    top: 141px;
+    left: 439px;
+    margin: 0;
+    color: blue;
+}
+
+.forgotp:hover {
+    background-color: lightblue;
+    color: white;
+    border-radius: 4px;
+}
+
+#sentence1 {
+    position: absolute;
+    top: 187px;
+    left: 439px;
+    margin: 0;
+    color: black;
+}
+
+#sentence2 {
+    position: absolute;
+    top: 187px;
+    left: 808px;
+    margin: 0;
+    color: blue;
+}
+
+#sentence3 {
+    position: absolute;
+    top: 260px;
+    left: 609px;
+    margin: 0;
+    color: blue;
+}
+
+#button {
+    position: absolute;
+    top: 250px;
+    left: 741px;
+    color: white;
+    background-color: #0b57d0;
+    height: 36px;
+    width: 85px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#eng {
+    margin-left: 261px;
+}
+
+#arrow {
+    font-size: 8px;
+    width: 10px;
+    margin-left: 10px;
+}
+
+#help {
+    display: flex;
+    gap: 25px;
+    margin-left: 980px;
+}
